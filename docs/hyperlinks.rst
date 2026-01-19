@@ -1,6 +1,6 @@
 .. _conda: https://docs.conda.io/en/latest/
 
-.. _Github repository: https://github.com/glamod/marine_qc
+.. _GitHub repository: https://github.com/glamod/marine_qc
 
 .. _git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
@@ -10,7 +10,9 @@
 
 .. _jupyter notebook: https://jupyter.org/install
 
-.. _pip: https://pypi.org/
+.. _pip: https://pip.pypa.io
+
+.. _Python installation guide: http://docs.python-guide.org/en/latest/starting/installation/
 
 .. _python3: https://www.python.org/download/releases/3.0
 

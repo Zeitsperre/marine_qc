@@ -151,7 +151,11 @@ html_theme = "sphinx_book_theme"
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-html_theme_options = {"style_external_links": True}
+html_theme_options = {
+    "repository_url": "https://github.com/glamod/marine_qc",
+    "use_download_button": True,
+    "use_repository_button": True
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
